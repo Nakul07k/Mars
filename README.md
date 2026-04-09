@@ -70,5 +70,5 @@ Implemented a system check script that evaluates battery level and network conne
 
 The project demonstrates the integration of mathematical concepts, system-level operations, and programming techniques to solve complex, multi-domain problems.
 
-![alt text][def]
+![alt text](image-1.png)        
 
